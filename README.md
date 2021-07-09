@@ -1,2 +1,9 @@
 # aula_javascript2
- Array e Dicionário
+ Array
+ Pop
+ Push
+ Length
+ Reverse
+ toString
+ Join
+ Dicionário
